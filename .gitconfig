@@ -43,7 +43,3 @@
 # http://rentzsch.tumblr.com/post/564806957/public-but-hackable-git-submodules
 [url "git@github.com:atabel/"]
 	insteadOf = "git://github.com/atabel/"
-
-[user]
-	name = atabel
-	email = atabel87@gmail.com
